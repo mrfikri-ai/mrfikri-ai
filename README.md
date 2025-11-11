@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Fikri 👋
 
-<!--
-**mrfikri-ai/mrfikri-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Ph.D. student of Automation Technology and Mechanical Engineering at Tampere University with research focus on safe and efficient persistent monitoring of multi-robot systems.
 
-Here are some ideas to get you started:
+- 🔭 Current: Finishing my studies (My main focus)
+- 🧠 Interests: persistent monitoring and task allocation, networked control systems, distributed optimization, dynamical systems, and source localization 
+- 📫 Reach me: See the email and my website on the left side of my GitHub home profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech/Tools I use (Focus on)
+Python • ROS2 • Gurobi • MOSEK • GEKKO • CVXPY • CVXOPT • CPLEX • FICO • Pyomo • MATLAB  
+## Tech/Tools I previously used 
+C++ • PX4 
+## Tech/Tools I currently learn
+Qiskit • Pytorch • Tensorflow
+## Tech/Tools I desire to Learn
+Julia • Rust
+
+## Latest work
+- [Project 1](#) – Efficient Task Allocation for Multi-Robot Persistent Monitoring
+- [Project 2](#) – Persistent Monitoring using Drone Swarm
+- [Project 3](#) - Stability and Safety Guarantee of Dynamical Systems
+
+<!-- Optional: dynamic section markers for scripts/actions -->
+<!--START_SECTION:status-->
+Last updated: 2025-11-11
+<!--END_SECTION:status-->
