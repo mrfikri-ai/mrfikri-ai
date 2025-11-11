@@ -7,7 +7,7 @@ I am a Ph.D. student of Automation Technology and Mechanical Engineering at Tamp
 - 📫 Reach me: See the email and my website on the left side of my GitHub home profile
 
 ## Tech/Tools I use (Focus on)
-Python • ROS2 • Gurobi • MOSEK • GEKKO • CVXPY • CVXOPT • CPLEX • FICO • Pyomo • MATLAB  
+Python • ROS2 • Gurobi • MOSEK • GEKKO • CVXPY • CVXOPT • CPLEX • FICO • Pyomoo • MATLAB  
 ## Tech/Tools I previously used 
 C++ • PX4 
 ## Tech/Tools I currently learn
