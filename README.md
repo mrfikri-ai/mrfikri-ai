@@ -11,13 +11,12 @@ Python • ROS2 • Gurobi • MOSEK • GEKKO • CVXPY • CVXOPT • CPLEX �
 ## Tech/Tools I previously used 
 C++ • PX4 
 ## Tech/Tools I currently learn
-Qiskit • Pytorch • Tensorflow
-## Tech/Tools I desire to Learn
-Julia • Rust
+Qiskit • Pytorch • Tensorflow • Julia • Rust
+
 
 ## Latest work
-- [Project 1](#) – Efficient Task Allocation for Multi-Robot Persistent Monitoring
-- [Project 2](#) – Persistent Monitoring using Drone Swarm
+- [Project 1](https://mrfikri-ai.github.io/pages/research.html) – Efficient Task Allocation for Multi-Robot Persistent Monitoring
+- [Project 2](https://mrfikri-ai.github.io/pages/research.html) – Persistent Monitoring using Drone Swarm
 - [Project 3](#) - Stability and Safety Guarantee of Dynamical Systems
 
 <!-- Optional: dynamic section markers for scripts/actions -->
