@@ -1,12 +1,12 @@
 # Hi, I'm Fikri 👋
 
-I am a Ph.D. student of Automation Technology and Mechanical Engineering at Tampere University with research focus on safe and efficient persistent monitoring of multi-robot systems.
+I am a Ph.D. student of Automation Technology and Mechanical Engineering at Tampere University with a research focus on safe and efficient persistent monitoring of multi-robot systems.
 
-- 🔭 Current: Finishing my studies (My main focus)
-- 🧠 Interests: persistent monitoring and task allocation, networked control systems, distributed optimization, dynamical systems, and source localization 
+- 🔭 Current: Finishing my studies (My primary focus)
+- 🧠 Interests: networked control systems, dynamical systems, and optimization
 - 📫 Reach me: See the email and my website on the left side of my GitHub home profile
 
-## Tech/Tools I use (Focus on)
+# Tech/Tools I use (Focus on)
 Python • ROS2 • Gurobi • MOSEK • GEKKO • CVXPY • CVXOPT • CPLEX • FICO • Pyomoo • MATLAB  
 ## Tech/Tools I previously used 
 C++ • PX4 
