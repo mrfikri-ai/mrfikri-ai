@@ -3,8 +3,9 @@
 I am a Ph.D. student of Automation Technology and Mechanical Engineering at Tampere University with a research focus on safe and efficient persistent monitoring of multi-robot systems.
 
 - 🔭 Current: Finishing my studies (My primary focus)
-- 🧠 Interests: networked control systems, dynamical systems, and optimization
+- 🧠 Interests: networked control systems, dynamical systems, and optimization (Research related)
 - 📫 Reach me: See the email and my website on the left side of my GitHub home profile
+- Hobby: spending my time with family (sightseeing, mini traveling, and culinary)
 
 ### Some tools I am working with
 - Tech/Tools I use (Focus on): Python • ROS2 • MATLAB
