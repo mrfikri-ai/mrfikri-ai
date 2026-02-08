@@ -1,6 +1,6 @@
 ### Hi, I'm Fikri 👋
 
-I am a Ph.D. student of Automation Technology and Mechanical Engineering at Tampere University with a research focus on safe and efficient persistent monitoring of multi-robot systems.
+A Ph.D. student of Automation Technology and Mechanical Engineering at Tampere University with a research focus on safe and efficient persistent monitoring of multi-robot systems.
 
 - 🔭 Current: Finishing my studies (My primary focus)
 - 🧠 Interests: networked control systems, dynamical systems, and optimization (Research related)
