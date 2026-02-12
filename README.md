@@ -9,10 +9,9 @@ A Ph.D. student of Automation Technology and Mechanical Engineering at Tampere U
 
 ### See my latest work
 - [Project 1](https://mrfikri-ai.github.io/pages/research.html) – Efficient Task Allocation for Multi-Robot Persistent Monitoring
-- [Project 2](https://mrfikri-ai.github.io/pages/research.html) – Persistent Monitoring using Drone Swarm
-- [Project 3](#) - Stability and Safety Guarantee of Dynamical Systems
+- [Project 2](https://mrfikri-ai.github.io/pages/research.html) – Persistent Monitoring Strategy using Drone Swarm
+- [Project 3](#) - Safe and Reconfigurable on Persistent Monitoring using Drone Swarm
 
-<!-- Optional: dynamic section markers for scripts/actions -->
 <!--START_SECTION:status-->
 Last updated: 2026-02-12
 <!--END_SECTION:status-->
